@@ -81,15 +81,7 @@ Vercel auto-detects the Vite framework. Verify these settings:
 | Output Directory | `dist` |
 | Node.js Version | 18.x or 20.x |
 
-### 3. Set environment variables
-
-In **Settings > Environment Variables**, add:
-
-| Variable | Required | Description |
-|---|---|---|
-| `GEMINI_API_KEY` | Optional | Google Gemini API key |
-
-### 4. Deploy
+### 3. Deploy
 
 Click **Deploy**. Vercel will:
 - Run `vite build` to generate the static frontend in `dist/`
