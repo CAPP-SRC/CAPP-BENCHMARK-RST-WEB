@@ -125,3 +125,13 @@ CAPP-BENCHMARK/
 ├── vercel.json            # Vercel deployment config
 └── package.json
 ```
+
+---
+
+## Licenza
+
+MIT
+
+## Autore
+
+[RAW](https://rawmain.github.io/) - _aka RST_
