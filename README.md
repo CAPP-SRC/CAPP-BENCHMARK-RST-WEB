@@ -1,4 +1,4 @@
-# CAPP Benchmark — CNC Vendor Rating
+# CAPP Benchmark — CNC Vendor Rating - RST WEB
 
 Compare two **Fusion 360 / HSMWorks Setup Sheet PDFs** and generate a weighted scorecard across 6 categories: cycle time efficiency, tool utilization, tool life, path efficiency, cycle complexity, and cutting aggressiveness.
 
